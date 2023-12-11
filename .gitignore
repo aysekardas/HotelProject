@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HotelProject/DesignTimeBuild
+/.vs/HotelProject/FileContentIndex
+/.vs/HotelProject/v17
+/.vs/ProjectEvaluation
+/ApiConsume/HotelProject.BusinessLayer/bin/Debug/net8.0
+/ApiConsume/HotelProject.BusinessLayer/obj
+/ApiConsume/HotelProject.DataAccessLayer/bin/Debug/net8.0
+/ApiConsume/HotelProject.DataAccessLayer/obj
+/ApiConsume/HotelProject.DtoLayer/bin/Debug/net8.0
+/ApiConsume/HotelProject.DtoLayer/obj
+/ApiConsume/HotelProject.EntityLayer/bin/Debug/net8.0
+/ApiConsume/HotelProject.EntityLayer/obj
+/ApiConsume/HotelProject.WebApi/bin/Debug/net8.0
+/ApiConsume/HotelProject.WebApi/obj
+/Frontend/HotelProject.WebUI/bin/Debug/net8.0
+/Frontend/HotelProject.WebUI/obj
+/.vs/HotelProject/config
+/Steps.txt
